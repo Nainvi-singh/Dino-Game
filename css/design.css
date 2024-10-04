@@ -1,3 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
 #canvas{
     border: 1px solid black;
 }
@@ -5,5 +16,5 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 60vh;
 }
